@@ -3,4 +3,4 @@
 	url = https://github.com/google-research/sputnik.git
 [submodule "third_party/FasterTransformer"]
 	path = third_party/FasterTransformer
-	url = https://github.com/NVIDIA/FasterTransformer.git
+	url = https://github.com/void-main/FasterTransformer.git
